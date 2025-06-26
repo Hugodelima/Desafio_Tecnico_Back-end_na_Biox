@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: api-receitas
+    runtime: node
+    buildCommand: cd api-receita && npm install && npm run build
+    startCommand: cd api-receita && npm start
