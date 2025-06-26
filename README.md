@@ -36,7 +36,7 @@ npm start
 ```
 *A API estará disponível em: http://localhost:3000*    
 
-### 4. Testar (OPCIONAL)
+### 4. Testar
 ```bash
 
 npm run test  # Testes unitários
